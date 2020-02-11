@@ -15,17 +15,17 @@ TOTAL: 3000 reviews, 1500 positive, 1500 negative
 
 
 STEPS:
--Data Exploration - Nontextual features
--Data Wrangling and Feature Engineering
--Model Design and Training
--Model Validation
+  -Data Exploration - Nontextual features
+  -Data Wrangling and Feature Engineering
+  -Model Design and Training
+  -Model Validation
 
 
 To run locally:
--install anaconda from https://www.anaconda.com/
--clone github to a local folder
--using the anaconda prompt (or Terminal) cd to the direcotry with the git project and into Projects/SentenceSenitments
--run jupyter notebook
--open the step you would like to run (ex. exploring_data.ipynb)
--edit the path variable so it shows the correct path to the projects folder
--run
+  -install anaconda from https://www.anaconda.com/
+  -clone github to a local folder
+  -using the anaconda prompt (or Terminal) cd to the direcotry with the git project and into Projects/SentenceSenitments
+  -run jupyter notebook
+  -open the step you would like to run (ex. exploring_data.ipynb)
+  -edit the path variable so it shows the correct path to the projects folder
+  -run
