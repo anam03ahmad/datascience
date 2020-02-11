@@ -10,6 +10,8 @@ Obtained from https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentenc
 1000 reviews from Imdb, 500 positive and 500 negative  
 1000 reviews from Yelp, 500 positive and 500 negative  
 TOTAL: 3000 reviews, 1500 positive, 1500 negative  
+Positive sentiment is a score of 1, and negative sentiment is a score of 0  
+Input data has 2 columns: review\t score
 
 # DESIGN & DEVELOPMENT STEPS:  
 Step 1: Data Exploration - Nontextual features  
